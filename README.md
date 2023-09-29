@@ -6,6 +6,8 @@
 
 Power of Thor - Episode 1: https://www.codingame.com/ide/puzzle/power-of-thor-episode-1 (простые условия)
 
+The Descent: https://www.codingame.com/ide/puzzle/the-descent (простые условия)
+
 <h3>Задания среднего уровня:</h3>
 
 Shadows of the Knight - Episode 1: https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1 (бинарный поиск)
