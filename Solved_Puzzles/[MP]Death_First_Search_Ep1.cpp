@@ -3,6 +3,8 @@
 #include <vector>
 #include <algorithm>
 
+// ссылка на задачу: https://www.codingame.com/ide/puzzle/death-first-search-episode-1
+
 using namespace std;
 
 int main()

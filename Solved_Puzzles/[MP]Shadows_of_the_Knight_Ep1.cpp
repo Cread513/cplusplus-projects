@@ -3,6 +3,8 @@
 #include <vector>
 #include <algorithm>
 
+// ссылка на задачу: https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1
+
 using namespace std;
 
 int main()

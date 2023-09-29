@@ -3,6 +3,8 @@
 #include <vector>
 #include <algorithm>
 
+// ссылка на задачу: https://www.codingame.com/ide/puzzle/don't-panic-episode-1
+
 using namespace std;
 
 int main()
